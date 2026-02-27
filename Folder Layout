@@ -1,0 +1,17 @@
+health-assistant-robot/
+│
+├── README.md
+├── requirements.txt
+├── main.py
+│
+├── modules/
+│   ├── posture.py
+│   ├── activity_tracker.py
+│   ├── pattern_learning.py
+│   └── alerts.py
+│
+├── data/
+│   └── baseline.json
+│
+└── docs/
+    └── system_design.md
